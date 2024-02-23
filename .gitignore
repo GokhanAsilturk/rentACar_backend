@@ -12,6 +12,7 @@ target/
 .settings
 .springBeans
 .sts4-cache
+src/main/resources/application.properties
 tobeto_rentAcar_crew_project/.idea/misc.xml
 
 ### IntelliJ IDEA ###
